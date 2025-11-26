@@ -1,0 +1,14 @@
+[
+    {
+        "url": "https://google.com",
+        "status_code": 200
+    },
+    {
+        "url": "https://github.com",
+        "status_code": 200
+    },
+    {
+        "url": "https://nonexistent.xyz",
+        "status_code": 200
+    }
+]
